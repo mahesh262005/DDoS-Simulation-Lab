@@ -224,7 +224,7 @@ The isolated lab captures show distinct HTTP/TCP traffic associated with GoldenE
 
 Full project report (29 slides) with lab screenshots, Wireshark captures, comparison and mitigation:
 
-👉 **[Download / View the PPT](report/GoldeneyeHulkLOIC-DDOS_ATTACK.pptx)**
+👉 **[Download / View the PPT](/GoldeneyeHulkLOIC-DDOS_ATTACK.pptx)**
 
 > GitHub cannot preview `.pptx` inline, so click the link and use **Download** (or open it in PowerPoint / Google Slides).
 
